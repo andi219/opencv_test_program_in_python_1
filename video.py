@@ -7,9 +7,10 @@ while True:
     if not isTrue:
         break
     cv.imshow('video lara', frame)
-    if cv.waitKey(20) & 0xFF == ('d'):
+    if cv.waitKey(20) & 0xFF == ord('d'):
         break
 
 
 capture.release()
+
 cv.destroyAllWindows()
