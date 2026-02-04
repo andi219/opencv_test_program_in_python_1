@@ -4,3 +4,4 @@ menampilkan gambar
 menampilkan video
 mengubah ukuran gambar
 mengubah ukuran video
+menggambar dengan bentuk
